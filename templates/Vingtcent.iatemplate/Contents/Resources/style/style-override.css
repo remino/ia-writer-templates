@@ -1,5 +1,0 @@
-
-/* User style blocks should not affect top margins */
-style + * {
-  margin-top: 0;
-}
